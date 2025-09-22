@@ -1,7 +1,3 @@
-# Data-Cleaning-and-Preprocessing-for-medical-dataset Absolutely! Here’s a concise, professional, and clear **description** you can put in your GitHub README for your **Medical Dataset Cleaning Project**:
-
----
-
 # **Medical Dataset Cleaning and Preprocessing**
 
 This Task demonstrates the **data cleaning and preprocessing** of a raw medical dataset to prepare it for analysis or machine learning tasks. The dataset often contains **missing values, duplicates, inconsistent formats, and unstandardized text**, which can affect data quality and insights.
@@ -32,4 +28,4 @@ The main goal of this Task is to:
 
 
 
-Do you want me to do that?
+
